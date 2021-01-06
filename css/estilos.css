@@ -1,6 +1,7 @@
 body {
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(112, 3, 3);
 }
 
 .cuerpo {
@@ -14,7 +15,10 @@ body {
   border: 1px solid #f00;
   color: #fff;
   background-color: #f00;
-
   -webkit-box-shadow: 0px 10px 14px -1px rgba(0, 0, 0, 0.7);
   box-shadow: 0px 10px 14px -1px rgba(0, 0, 0, 0.7);
+}
+
+.workarea{
+  background-color: #fff;
 }
